@@ -1,0 +1,57 @@
+body {
+    background-image: url('C:/Users/Chon/Basic-Portfolio/assets/images/white-waves.png');
+ }
+
+ h2 {
+     color:#99ccbb;
+     font-family:'Georgia', 'Times New Roman', 'serif';
+ }
+
+ .description {
+     background-color: white;
+     width: 960px;
+     height: 500px;
+     border: 1px solid #99ccbb;
+     padding: 30px;
+     margin: 30px;
+    
+ }
+
+ p{
+     font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+     line-height: 25px;
+ }
+
+ .topnav ul{
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     background-color: white;
+     border: 1px solid #99ccbb;
+ }
+
+ .topnav li{
+     display: inline;
+     border-left: 1px solid #99ccbb;
+ }
+
+ .topnav li a{
+     display: inline-block;
+     color: #bb5577;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+     font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+ }
+
+ .topnav li a:hover {
+     background-color: #cc99aa;
+ }
+
+ .topnav #logo{
+     font-size: 1.5em;
+     background-color:#cc99aa;
+     color: white;
+     font-family:'Georgia', 'Times New Roman', 'serif';
+ }
