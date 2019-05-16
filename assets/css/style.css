@@ -7,7 +7,7 @@ body {
      font-family:'Georgia', 'Times New Roman', 'serif';
  }
 
- .description {
+ .description{
      background-color: white;
      width: 960px;
      height: 500px;
@@ -15,6 +15,14 @@ body {
      padding: 30px;
      margin: 30px;
     
+ }
+ .contact{
+    background-color: white;
+    width: 960px;
+    height: 500px;
+    border: 1px solid #99ccbb;
+    padding: 30px;
+    margin: 30px;
  }
 
  p{
@@ -54,4 +62,8 @@ body {
      background-color:#cc99aa;
      color: white;
      font-family:'Georgia', 'Times New Roman', 'serif';
+ }
+
+ input {
+     width: 100%
  }
