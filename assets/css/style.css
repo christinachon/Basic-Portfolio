@@ -10,7 +10,7 @@ body {
 
  .container{
      background-color: white;
-     width: 960px;
+     width: 898px;
      height: 500px;
      border: 1px solid #99ccbb;
      padding: 30px;
@@ -65,7 +65,7 @@ body {
      font-family:'Georgia', 'Times New Roman', 'serif';
 
    }
- }
+
 
  input {
      width: 100%;
